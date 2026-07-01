@@ -163,7 +163,7 @@ class UsagerController extends Controller
 				"Votre vehicule a ete enregistre :\n" .
 				"Matricule : " . $request->matricule . "\n" .
 				"Carte grise : " . $request->carte_grise ."\n" .
-                "Lien de l'application : https://tooauto.com/link-app"
+                "Telecharger Tooauto  : https://tooauto.com/link-app"
 			);
 
 
